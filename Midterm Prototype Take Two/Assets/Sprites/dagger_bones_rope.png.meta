@@ -1,0 +1,1100 @@
+fileFormatVersion: 2
+guid: 086bb4703244c4086b3db3991a3ff73f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5610802524962260571
+    second: dagger_bones_rope_0
+  - first:
+      213: 7114174016389794274
+    second: dagger_bones_rope_1
+  - first:
+      213: -6950814286029945894
+    second: dagger_bones_rope_2
+  - first:
+      213: -4304962430051872404
+    second: dagger_bones_rope_3
+  - first:
+      213: -6110173284793767471
+    second: dagger_bones_rope_4
+  - first:
+      213: -4664019702981542644
+    second: dagger_bones_rope_5
+  - first:
+      213: -8052175819788967265
+    second: dagger_bones_rope_6
+  - first:
+      213: 6285690688985679800
+    second: dagger_bones_rope_7
+  - first:
+      213: -5532913323009558420
+    second: dagger_bones_rope_8
+  - first:
+      213: -7568948329478908629
+    second: dagger_bones_rope_9
+  - first:
+      213: -3979586217131499920
+    second: dagger_bones_rope_10
+  - first:
+      213: -7621044777440707732
+    second: dagger_bones_rope_11
+  - first:
+      213: 7424161481440119607
+    second: dagger_bones_rope_12
+  - first:
+      213: 2131875449010834217
+    second: dagger_bones_rope_13
+  - first:
+      213: 2929577015612958481
+    second: dagger_bones_rope_14
+  - first:
+      213: -7525316620316657862
+    second: dagger_bones_rope_15
+  - first:
+      213: 7861239908958804471
+    second: dagger_bones_rope_16
+  - first:
+      213: 4939103556147387419
+    second: dagger_bones_rope_17
+  - first:
+      213: -494060257392805313
+    second: dagger_bones_rope_18
+  - first:
+      213: -7691080288729290206
+    second: dagger_bones_rope_19
+  - first:
+      213: 4772354218018167366
+    second: dagger_bones_rope_20
+  - first:
+      213: -1788320021156327669
+    second: dagger_bones_rope_21
+  - first:
+      213: -1132650707226507864
+    second: dagger_bones_rope_22
+  - first:
+      213: 1767157952054011336
+    second: dagger_bones_rope_23
+  - first:
+      213: 2481810862519797368
+    second: dagger_bones_rope_24
+  - first:
+      213: 8396275324525266324
+    second: dagger_bones_rope_25
+  - first:
+      213: 4692032707477803258
+    second: dagger_bones_rope_26
+  - first:
+      213: 4155385071480102215
+    second: dagger_bones_rope_27
+  - first:
+      213: 9059885683427307567
+    second: dagger_bones_rope_28
+  - first:
+      213: -8567267496082219025
+    second: dagger_bones_rope_29
+  - first:
+      213: -1321078397717051169
+    second: dagger_bones_rope_30
+  - first:
+      213: 163228619375008889
+    second: dagger_bones_rope_31
+  - first:
+      213: 4144910098176907911
+    second: dagger_bones_rope_32
+  - first:
+      213: -876726700787971033
+    second: dagger_bones_rope_33
+  - first:
+      213: -6759448305950255540
+    second: dagger_bones_rope_34
+  - first:
+      213: 2977786401965962168
+    second: dagger_bones_rope_35
+  - first:
+      213: 1858522659191072467
+    second: dagger_bones_rope_36
+  - first:
+      213: -6906672156839781931
+    second: dagger_bones_rope_37
+  - first:
+      213: 6562254689727959543
+    second: dagger_bones_rope_38
+  - first:
+      213: 6018112925523708104
+    second: dagger_bones_rope_39
+  - first:
+      213: 4517221959898640208
+    second: dagger_bones_rope_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dagger_bones_rope_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1043
+        width: 215
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b568d3d4b239ddd40800000000000000
+      internalID: 5610802524962260571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1944
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e94a3d439f9ab260800000000000000
+      internalID: 7114174016389794274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_2
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1907
+        width: 257
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3897ddb3fb98f90800000000000000
+      internalID: -6950814286029945894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_3
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 1935
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c611b518a73b144c0800000000000000
+      internalID: -4304962430051872404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_4
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1138
+        width: 197
+        height: 727
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d929c345cd443ba0800000000000000
+      internalID: -6110173284793767471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_5
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1378
+        width: 520
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dbc5a8ac2164fb0800000000000000
+      internalID: -4664019702981542644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_6
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 1808
+        width: 182
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f922d7011cce04090800000000000000
+      internalID: -8052175819788967265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_7
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1737
+        width: 231
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7c8fce0624b3750800000000000000
+      internalID: 6285690688985679800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_8
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1610
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c683df8b5a42733b0800000000000000
+      internalID: -5532913323009558420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_9
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 1641
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b259f1aa891b5f690800000000000000
+      internalID: -7568948329478908629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_10
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1660
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e16d69b6ba5c8c0800000000000000
+      internalID: -3979586217131499920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_11
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1670
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bfc47272c9c3690800000000000000
+      internalID: -7621044777440707732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_12
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1603
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b4060588be70760800000000000000
+      internalID: 7424161481440119607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_13
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1648
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bcaabfc61f59d10800000000000000
+      internalID: 2131875449010834217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_14
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1575
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11762cd26c2f7a820800000000000000
+      internalID: 2929577015612958481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_15
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1572
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37bea79764b09790800000000000000
+      internalID: -7525316620316657862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_16
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1533
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f91d9beb0cb81d60800000000000000
+      internalID: 7861239908958804471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_17
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1575
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c980d04883b8440800000000000000
+      internalID: 4939103556147387419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_18
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1482
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ab67440deb429f0800000000000000
+      internalID: -494060257392805313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_19
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 1262
+        width: 59
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a284bf93bc34590800000000000000
+      internalID: -7691080288729290206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_20
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1322
+        width: 98
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a5f4350eeca3240800000000000000
+      internalID: 4772354218018167366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_21
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1448
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f024a6a6c9e27e0800000000000000
+      internalID: -1788320021156327669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_22
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1347
+        width: 75
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a54b2dce240840f0800000000000000
+      internalID: -1132650707226507864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_23
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 938
+        width: 333
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5af2a6bc4368810800000000000000
+      internalID: 1767157952054011336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_24
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 1307
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876c23c84d9217220800000000000000
+      internalID: 2481810862519797368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_25
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 58
+        width: 163
+        height: 970
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495c4ba1cef858470800000000000000
+      internalID: 8396275324525266324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_26
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 465
+        width: 359
+        height: 669
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af09ab353e27d1140800000000000000
+      internalID: 4692032707477803258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_27
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 476
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d5882d4b4eaa930800000000000000
+      internalID: 4155385071480102215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_28
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 515
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20f45a170e2bbd70800000000000000
+      internalID: 9059885683427307567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_29
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 958
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefd4488a93fa1980800000000000000
+      internalID: -8567267496082219025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_30
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 850
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd802a752369aade0800000000000000
+      internalID: -1321078397717051169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_31
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 853
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c56038097e34200800000000000000
+      internalID: 163228619375008889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_32
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 904
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a93cb06cda58930800000000000000
+      internalID: 4144910098176907911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_33
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 938
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cce62f5bd35d3f0800000000000000
+      internalID: -876726700787971033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_34
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1008
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46183e249d9132a0800000000000000
+      internalID: -6759448305950255540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_35
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 949
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b37b22a4f8335920800000000000000
+      internalID: 2977786401965962168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_36
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 947
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6291cf28ccac910800000000000000
+      internalID: 1858522659191072467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_37
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 962
+        width: 114
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9db7734429620a0800000000000000
+      internalID: -6906672156839781931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_38
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 437
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f150ea3fdfc11b50800000000000000
+      internalID: 6562254689727959543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_39
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 337
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8070802d1a48350800000000000000
+      internalID: 6018112925523708104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_bones_rope_40
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 1514
+        width: 636
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f2a53707560be30800000000000000
+      internalID: 4517221959898640208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

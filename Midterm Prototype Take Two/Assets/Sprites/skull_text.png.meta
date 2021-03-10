@@ -1,0 +1,1460 @@
+fileFormatVersion: 2
+guid: 7de28d106b7b84970989f36247660a09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4973363135823713253
+    second: skull_text_0
+  - first:
+      213: 4295045467290980559
+    second: skull_text_1
+  - first:
+      213: 3694736773445108172
+    second: skull_text_2
+  - first:
+      213: 8315869861278097434
+    second: skull_text_3
+  - first:
+      213: -8937383211810643161
+    second: skull_text_4
+  - first:
+      213: 974965684484982595
+    second: skull_text_5
+  - first:
+      213: 8458128941647679887
+    second: skull_text_6
+  - first:
+      213: -93513628946511362
+    second: skull_text_7
+  - first:
+      213: 573671584026070845
+    second: skull_text_8
+  - first:
+      213: -6510817232722134578
+    second: skull_text_9
+  - first:
+      213: -4681519413631616399
+    second: skull_text_10
+  - first:
+      213: -3560856776289116174
+    second: skull_text_11
+  - first:
+      213: 8909473384711263038
+    second: skull_text_12
+  - first:
+      213: -1644312029998311111
+    second: skull_text_13
+  - first:
+      213: 2703876204999916574
+    second: skull_text_14
+  - first:
+      213: 4966435306505982268
+    second: skull_text_15
+  - first:
+      213: -7919169396020259856
+    second: skull_text_16
+  - first:
+      213: -4605082737868700523
+    second: skull_text_17
+  - first:
+      213: 5232135061001811951
+    second: skull_text_18
+  - first:
+      213: -1323836815868112194
+    second: skull_text_19
+  - first:
+      213: -470923456462197068
+    second: skull_text_20
+  - first:
+      213: -6321490157316613231
+    second: skull_text_21
+  - first:
+      213: -2693201602075145773
+    second: skull_text_22
+  - first:
+      213: 7625599861646155409
+    second: skull_text_23
+  - first:
+      213: 1639150680308551362
+    second: skull_text_24
+  - first:
+      213: 8598057259059240536
+    second: skull_text_25
+  - first:
+      213: 3030457048300041946
+    second: skull_text_26
+  - first:
+      213: -4560806957771301221
+    second: skull_text_27
+  - first:
+      213: -8458553938196217902
+    second: skull_text_28
+  - first:
+      213: 7010424456447032315
+    second: skull_text_29
+  - first:
+      213: -7812181784716220426
+    second: skull_text_30
+  - first:
+      213: 5668437258574591832
+    second: skull_text_31
+  - first:
+      213: 1574913416263071251
+    second: skull_text_32
+  - first:
+      213: 5965674651112258622
+    second: skull_text_33
+  - first:
+      213: -7981065302496454905
+    second: skull_text_34
+  - first:
+      213: 6656076333494762135
+    second: skull_text_35
+  - first:
+      213: 5849747104282803537
+    second: skull_text_36
+  - first:
+      213: 5647471156223855329
+    second: skull_text_37
+  - first:
+      213: -662581928724374642
+    second: skull_text_38
+  - first:
+      213: -5818286576682976015
+    second: skull_text_39
+  - first:
+      213: -7735859062552944006
+    second: skull_text_40
+  - first:
+      213: 1828718424462134539
+    second: skull_text_41
+  - first:
+      213: -5809542589423318860
+    second: skull_text_42
+  - first:
+      213: 3125819820505248309
+    second: skull_text_43
+  - first:
+      213: 8508442727112977179
+    second: skull_text_44
+  - first:
+      213: 7329419543364436453
+    second: skull_text_45
+  - first:
+      213: 1337041163107062865
+    second: skull_text_46
+  - first:
+      213: 6012629096472131933
+    second: skull_text_47
+  - first:
+      213: 1679502772823939424
+    second: skull_text_48
+  - first:
+      213: -3323881412016338165
+    second: skull_text_49
+  - first:
+      213: 6089390523667436393
+    second: skull_text_50
+  - first:
+      213: -2985864010070209473
+    second: skull_text_51
+  - first:
+      213: -540018726316860236
+    second: skull_text_52
+  - first:
+      213: -4209169629287999873
+    second: skull_text_53
+  - first:
+      213: -2181529787570172
+    second: skull_text_54
+  - first:
+      213: -6071259002092621288
+    second: skull_text_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skull_text_0
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 307
+        width: 362
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e39bc90c6fe40540800000000000000
+      internalID: 4973363135823713253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_1
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 403
+        width: 41
+        height: 21
+      alignment: 9
+      pivot: {x: 6.9760075, y: 5.300915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0d70ca8111b9b30800000000000000
+      internalID: 4295045467290980559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_2
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 418
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1c4c71587564330800000000000000
+      internalID: 3694736773445108172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 410
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10abd75497e76370800000000000000
+      internalID: 8315869861278097434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_4
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 417
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723ac76325908f380800000000000000
+      internalID: -8937383211810643161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_5
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 421
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3474cebdf16c78d00800000000000000
+      internalID: 974965684484982595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_6
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 400
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f815c57957f416570800000000000000
+      internalID: 8458128941647679887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_7
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 404
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef94cf499d5c3bef0800000000000000
+      internalID: -93513628946511362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_8
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 406
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f0c97244716f700800000000000000
+      internalID: 573671584026070845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_9
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 369
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9fa1ef83ee4a5a0800000000000000
+      internalID: -6510817232722134578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_10
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 370
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a7465a5e6e70fb0800000000000000
+      internalID: -4681519413631616399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_11
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 367
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff9e31d0ab459ec0800000000000000
+      internalID: -3560856776289116174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 215
+        width: 628
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e331387c6dec4ab70800000000000000
+      internalID: 8909473384711263038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_13
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 381
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9399c00bbea3e29e0800000000000000
+      internalID: -1644312029998311111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_14
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 266
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cb6ab2519168520800000000000000
+      internalID: 2703876204999916574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_15
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 403
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c315f3419925ce440800000000000000
+      internalID: 4966435306505982268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_16
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 422
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f351125465791290800000000000000
+      internalID: -7919169396020259856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_17
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 437
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5948d0016a57710c0800000000000000
+      internalID: -4605082737868700523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_18
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 399
+        width: 60
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe731efed174c9840800000000000000
+      internalID: 5232135061001811951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_19
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 411
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2d8911e69c0ade0800000000000000
+      internalID: -1323836815868112194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_20
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 397
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4beeb258c91f679f0800000000000000
+      internalID: -470923456462197068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_21
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 432
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bd302d13e8548a0800000000000000
+      internalID: -6321490157316613231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_22
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 392
+        width: 72
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d94ccf7963df9ad0800000000000000
+      internalID: -2693201602075145773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_23
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 421
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19edfa80ca293d960800000000000000
+      internalID: 7625599861646155409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_24
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 389
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce8121fbde6fb610800000000000000
+      internalID: 1639150680308551362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_25
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 410
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ed1bcc58f625770800000000000000
+      internalID: 8598057259059240536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_26
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 435
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6b00f11a85e0a20800000000000000
+      internalID: 3030457048300041946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_27
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 411
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e59e07c32c4b0c0800000000000000
+      internalID: -4560806957771301221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_28
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 437
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df3550320e2d9a80800000000000000
+      internalID: -8458553938196217902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_29
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 430
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb7c3b76e70a4160800000000000000
+      internalID: 7010424456447032315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_30
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 391
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f76639be0e859390800000000000000
+      internalID: -7812181784716220426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_31
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 431
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8577dec67a55aae40800000000000000
+      internalID: 5668437258574591832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_32
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 416
+        width: 59
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3167b5868673bd510800000000000000
+      internalID: 1574913416263071251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_33
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 390
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c3919dc755ac250800000000000000
+      internalID: 5965674651112258622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_34
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 411
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707d083946f8d3190800000000000000
+      internalID: -7981065302496454905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_35
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 397
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79af6dfe8222f5c50800000000000000
+      internalID: 6656076333494762135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_36
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 431
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d75a08ff97e2150800000000000000
+      internalID: 5849747104282803537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_37
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 402
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaccf15819df5e40800000000000000
+      internalID: 5647471156223855329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_38
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 397
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b5acf0f390ec6f0800000000000000
+      internalID: -662581928724374642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_39
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 413
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc33636f2b414fa0800000000000000
+      internalID: -5818286576682976015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_40
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 404
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72ab004b25b4a490800000000000000
+      internalID: -7735859062552944006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_41
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 425
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d0744d7b9e06910800000000000000
+      internalID: 1828718424462134539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_42
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 432
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b88be19bcb506fa0800000000000000
+      internalID: -5809542589423318860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_43
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 158
+        width: 321
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5323711c094216b20800000000000000
+      internalID: 3125819820505248309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_44
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 386
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b2355a49f041670800000000000000
+      internalID: 8508442727112977179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_45
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 365
+        width: 72
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e10b04ed3457b560800000000000000
+      internalID: 7329419543364436453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_46
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 402
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15452199adf1e8210800000000000000
+      internalID: 1337041163107062865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_47
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 388
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5936659e46217350800000000000000
+      internalID: 6012629096472131933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_48
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 429
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069547d9fdace4710800000000000000
+      internalID: 1679502772823939424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_49
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 401
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b0e3967733fd1d0800000000000000
+      internalID: -3323881412016338165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_50
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 411
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963d3d51b6cd18450800000000000000
+      internalID: 6089390523667436393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_51
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 402
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c442ca0841096d0800000000000000
+      internalID: -2985864010070209473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_52
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 420
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc13dd54d77188f0800000000000000
+      internalID: -540018726316860236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_53
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 371
+        width: 233
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f761de6f5860695c0800000000000000
+      internalID: -4209169629287999873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_54
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 417
+        width: 97
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408e1f309ef38fff0800000000000000
+      internalID: -2181529787570172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_text_55
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 386
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81270e0ca1e8ebba0800000000000000
+      internalID: -6071259002092621288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
